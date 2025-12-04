@@ -1,0 +1,7 @@
+/* Estilo de fuente para el requisito previo nº2 (aplicado a todo el documento HTML) */
+*{
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: 375;
+  font-style: normal;
+}
